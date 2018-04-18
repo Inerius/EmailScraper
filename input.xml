@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<data>
+	<site>
+		<url>URL</url>
+	</site>
+    <site>
+		<url>URL</url>
+	</site>
+	...
+</data>
